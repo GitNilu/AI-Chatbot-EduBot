@@ -8,7 +8,7 @@ from tensorflow.keras.models import save_model
 
 
 # importing training data
-training_data = pd.read_csv("training_data_EduBot_v2.csv")
+training_data = pd.read_csv("sample.csv")
 
 # preprocessing training data
 training_data["patterns"] = training_data["patterns"].str.lower()
