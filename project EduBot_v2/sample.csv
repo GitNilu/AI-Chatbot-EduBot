@@ -1,0 +1,129 @@
+patterns,tags
+hi,Intro
+how are you,Intro
+is anyone there,Intro
+hello,Intro
+whats up,Intro
+hey,Intro
+yo,Intro
+listen,Intro
+please help me,Intro
+i am learner from,Intro
+i belong to,Intro
+aiml batch,Intro
+aifl batch,Intro
+i am from,Intro
+my pm is,Intro
+blended,Intro
+online,Intro
+i am from,Intro
+hey ya,Intro
+talking to you for first time,Intro
+thank you,Exit 
+thanks,Exit 
+cya,Exit
+see you,Exit
+later,Exit 
+see you later,Exit 
+goodbye,Exit 
+i am leaving,Exit 
+have a Good day,Exit
+you helped me,Exit
+thanks a lot,Exit
+thanks a ton,Exit
+you are the best,Exit
+great help,Exit
+too good,Exit
+you are a good learning buddy,Exit
+olympus,Olympus
+explain me how olympus works,Olympus
+I am not able to understand olympus,Olympus
+olympus window not working,Olympus
+no access to olympus,Olympus
+unable to see link in olympus,Olympus
+no link visible on olympus,Olympus
+whom to contact for olympus,Olympus
+lot of problem with olympus,Olympus
+olypus is not a good tool,Olympus
+lot of problems with olympus,Olympus
+how to use olympus,Olympus
+teach me olympus,Olympus
+i am not able to understand svm,SL 
+explain me how machine learning works,SL
+i am not able to understand naive bayes,SL
+i am not able to understand logistic regression,SL
+i am not able to understand ensemble techb=niques,SL
+i am not able to understand knn,SL
+i am not able to understand knn imputer,SL
+i am not able to understand cross validation,SL
+i am not able to understand boosting,SL
+i am not able to understand random forest,SL
+i am not able to understand ada boosting,SL
+i am not able to understand gradient boosting,SL
+machine learning,SL
+ML,SL
+SL,SL 
+supervised learning,SL
+knn,SL
+logistic regression,SL
+regression,SL
+classification,SL
+naive bayes,SL
+nb,SL
+ensemble techniques,SL
+bagging,SL
+boosting,SL
+ada boosting,SL
+ada,SL
+gradient boosting,SL
+hyper parameters,SL
+what is deep learning,NN 
+unable to understand deep learning,NN
+explain me how deep learning works,NN
+i am not able to understand deep learning,NN
+not able to understand neural nets,NN
+very diffult to understand neural nets,NN
+unable to understand neural nets,NN
+ann,NN 
+artificial intelligence,NN 
+artificial neural networks,NN
+weights,NN
+activation function,NN
+hidden layers,NN
+softmax,NN
+sigmoid,NN
+relu,NN
+otimizer,NN
+forward propagation,NN
+backward propagation,NN
+epochs,NN
+epoch,NN
+what is an epoch,NN
+adam,NN
+sgd,NN
+what is your name,Bot
+who are you,Bot
+name please,Bot
+when are your hours of opertions,Bot 
+what are your working hours,Bot 
+hours of operation,Bot
+working hours,Bot
+hours,Bot
+what the hell,Profane
+bloody stupid bot,Profane
+do you think you are very smart,Profane
+screw you,Profane 
+i hate you,Profane 
+you are stupid,Profane
+jerk,Profane
+you are a joke,Profane
+useless piece of shit,Profane
+my problem is not solved,Ticket 
+you did not help me,Ticket 
+not a good solution,Ticket
+bad solution,Ticket
+not good solution,Ticket
+no help,Ticket
+wasted my time,Ticket
+useless bot,Ticket
+create a ticket,Ticket
