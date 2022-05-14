@@ -9,13 +9,13 @@ import random
 
 
 # importing training data
-training_data = pd.read_csv("training_data_EduBot_v2.csv")
+training_data = pd.read_csv("sample.csv")
 
 # loading model
 edubot_v2 = load_model("EduBot_v2")
 
 # importing responses
-responses = json.load(open("responses.json", "r"))
+responses = json.load(open("GL Bot.json", "r"))
 
 
 # fitting TfIdfVectorizer with training data to preprocess inputs
@@ -41,7 +41,7 @@ def predict_tag(inp_str):
 # chat function
 def start_chat():
     print("---------------  EduBot_v2 - AI Chat bot  ---------------")
-    print("Ask any queries regarding SASTRA...")
+    print("Ask any queries...")
     print("I will try to understand you and reply...")
     print("Type EXIT to quit...")
     while True:
